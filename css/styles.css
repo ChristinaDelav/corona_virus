@@ -1,0 +1,17 @@
+img{width:200px;
+height:500px;}
+
+#carousel{margin: 5%;}
+
+#images{width: 500px;
+height:300px;}
+
+#buttons{text-align: center;}
+
+#title{background-color: rgb(197, 13, 13);
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#image{width: 400px;
+height: 400px;}
